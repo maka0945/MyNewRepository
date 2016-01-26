@@ -1,1 +1,3 @@
 # MyNewRepository
+
+Partner: Chris Rhoda
